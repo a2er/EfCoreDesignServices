@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34004.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreDesignServices", "EfCoreDesignServices\EfCoreDesignServices.csproj", "{AB73B41D-A64E-46FD-B28E-9E01F05D504B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreDesignServices.Test", "EfCoreDesignServices.Test\EfCoreDesignServices.Test.csproj", "{C88E8E65-E65E-452C-8897-2125CFAF1A50}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{38B894B7-E539-44B1-A283-372E2A64A91F}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		LICENSE.txt = LICENSE.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB73B41D-A64E-46FD-B28E-9E01F05D504B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB73B41D-A64E-46FD-B28E-9E01F05D504B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB73B41D-A64E-46FD-B28E-9E01F05D504B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB73B41D-A64E-46FD-B28E-9E01F05D504B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C88E8E65-E65E-452C-8897-2125CFAF1A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88E8E65-E65E-452C-8897-2125CFAF1A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88E8E65-E65E-452C-8897-2125CFAF1A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88E8E65-E65E-452C-8897-2125CFAF1A50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE4601DE-A212-4E00-B8CD-F59F91BCF126}
+	EndGlobalSection
+EndGlobal
